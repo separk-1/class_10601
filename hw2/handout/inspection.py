@@ -5,9 +5,10 @@ def calculate_entropy(labels):
     label_counts = np.bincount(labels)
     total = len(labels)
     
+    
     # calculate entropy
     entropy = 0
-    for count in label_counts:
+    for count in label_counts: # loop twice
         if count > 0:
             probability = count / total
             entropy -= probability * np.log2(probability)
