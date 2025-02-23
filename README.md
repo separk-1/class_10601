@@ -12,6 +12,6 @@ Covers the ML fundamentals:
 - Probabilistic models & optimization  
 - Deep learning basics  
 
-Taught by **Henry Chai & Matt Gormley**.  
+Taught by **Prof. Henry Chai & Prof. Matt Gormley**.  
 
 📍 [Course Website](https://www.cs.cmu.edu/~mgormley/courses/10601/)
