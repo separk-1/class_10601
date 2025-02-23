@@ -1,14 +1,17 @@
-# 10-601: Introduction to Machine Learning (Spring 2025)
+# 🤖 10-601: Introduction to Machine Learning (Fall 2024)
 
-This repository contains assignments and study materials from **10-601: Introduction to Machine Learning** at **Carnegie Mellon University**.
+This repo is where I keep my notes, assignments, and experiments from **10-601: Introduction to Machine Learning** at **CMU**. Just a place to track my progress and play around with ML concepts!
 
-## Course Overview
-- Topics: Supervised & unsupervised learning, probabilistic models, deep learning, optimization
-- Instructors: Henry Chai, Matt Gormley
+## 📌 What's in here?
+- `hw/` – My solutions to assignments  
+- `playground.py` – Random experiments and practice code  
 
-## Repository Structure
-- `hw1/` – Assignment 1
-- `hw2/` – Assignment 2
-- `playground.py` – Experimentation and practice scripts
+## 🧠 Course Topics
+Covers the ML fundamentals:  
+- Supervised & unsupervised learning  
+- Probabilistic models & optimization  
+- Deep learning basics  
 
-📌 [Course Website]([https://piazza.com/cmu/spring2025/1030110601/home](https://www.cs.cmu.edu/~mgormley/courses/10601/))
+Taught by **Henry Chai & Matt Gormley**.  
+
+📍 [Course Website](https://www.cs.cmu.edu/~mgormley/courses/10601/)
